@@ -1,4 +1,4 @@
-# Build and Deploy Your Own ChatGPT AI SaaS Business with React
+# Build a robust AI Summarizer Application using OpenAI's GPT model.
 ![Screenshot](Screenshot.png)
 
 # Introduction
